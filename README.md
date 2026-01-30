@@ -1,7 +1,7 @@
 # MoneyOS (Money Operating System)
 
 Research quote-control simulator for **dynamic pricing** and **market making** experiments.
-MoneyOS models pricing as a closed loop of **Quote → Arrival → Execution → Position**, enabling
+MoneyOS models pricing as a closed loop of **Quote > Arrival > Execution > Position**, enabling
 controlled experimentation with demand models, inventory constraints, and reward shaping.
 
 _(built as a byproduct for inspiration of another project)_
